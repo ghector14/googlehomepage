@@ -1,2 +1,2 @@
 # googlehomepage
-recreation of google homepage
+Recreation of google homepage
